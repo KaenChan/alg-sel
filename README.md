@@ -61,17 +61,17 @@ Main Options:
  -> Trained model: model.pickle
       Multi-output ET; ntrees=10
 Test-Instances                     : 594.0
-n-Solved                           : 582.0
-Percentage solved                  : 97.98
-Geometric-Mean (shifted by 10)     : 18.74
-Runtime-Mean                       : 135.60
-Runtime-Mean-On-Solved             : 97.15
-PAR-1                              : 135.60
-PAR-5                              : 297.21
-PAR-10                             : 499.23
+n-Solved                           : 580.0
+Percentage solved                  : 97.64
+Geometric-Mean (shifted by 10)     : 18.64
+Runtime-Mean                       : 137.38
+Runtime-Mean-On-Solved             : 92.42
+PAR-1                              : 137.38
+PAR-5                              : 325.93
+PAR-10                             : 561.62
 VBS-Solved                         : 594.0
 VBS-Percentage solved              : 100.00
 VBS-Mean                           : 59.16
 VBS-Geometric-Mean (shifted by 10) : 10.16
-Testing time                       : 1.78
+Testing time                       : 1.79
 ```
