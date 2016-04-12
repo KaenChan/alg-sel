@@ -1,8 +1,8 @@
 Alg-sel
 ===========================
 
-Alg-sel is a algorithm selection tool for SAT, MAXSAT, Plan etc. It's based on multi-output regression model to predict the runtime for each algorithm.
-Compared to single-output learning, the multi-output learning can capture the relation of the candidate algorithms.
+Alg-sel is a algorithm selection tool for SAT, MAXSAT, Plan etc. It's based on multi-output regression to predict the runtimes of all algorithms.
+Compared to single-output learning, the multi-output learning can capture the relationships of the candidate algorithms more directly.
 
 Alg-sel contains 3 multi-output learning method
 
