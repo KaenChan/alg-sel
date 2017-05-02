@@ -1,6 +1,21 @@
 Alg-sel
 ===========================
 
+## Citation
+If you use the codes, please cite the following paper:
+```
+@article{Chen2017Instance,
+  title={Instance Specific Algorithm Selection via Multi-Output Learning},
+  author={Chen, Kai and Dou, Yong and Lv, Qi and Zhengfa, Liang},
+  journal={Tsinghua Science and Technology},
+  volume={22},
+  number={2},
+  pages={210--217},
+  year={2017}
+}
+```
+    
+## Overview
 Alg-sel is a algorithm selection tool for SAT, MAXSAT, Plan etc. It's based on multi-output regression to predict the runtimes of all algorithms.
 Compared to single-output learning, the multi-output learning can capture the relationships of the candidate algorithms more directly.
 
